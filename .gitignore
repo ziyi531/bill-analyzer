@@ -1,0 +1,9 @@
+# 个人账单数据，永远不要提交
+data/
+*.csv
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
